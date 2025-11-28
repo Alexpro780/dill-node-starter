@@ -4,3 +4,4 @@ Dill nodes are the quiet engines of the network — small independent units that
 help maintain distributed storage and routing;
 strengthen decentralization and reliability as more nodes come online;
 form the backbone for future Dill services like bridges, off-chain compute, and modular execution layers
+ill nodes are the quiet engines of the network
