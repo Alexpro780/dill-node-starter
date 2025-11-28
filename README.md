@@ -8,3 +8,6 @@ ill nodes are the quiet engines of the network
 they validate and relay data across the Dill network;
 
 help maintain distributed storage and routing;
+1010they validate and relay data across the Dill network;
+
+help maintain distributed storage and routing;
